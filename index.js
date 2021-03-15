@@ -4,7 +4,7 @@ let cors = require('cors');
 let bcrypt = require('bcrypt');
 let jwt = require('jsonwebtoken');
 
-const JWT_SECRET = 'c7b756n634456nv5n934nn'
+const JWT_SECRET = ''
 
 let User = require('./User');
 
